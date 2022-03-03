@@ -3,13 +3,13 @@
 
    <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-      <sureFireOptions9 />
+      <sureFireOptions9/>
       <sureFireForks9>false</sureFireForks9>
-      <artifact.classifier />
+      <artifact.classifier/>
 
       <felix.bundle.plugin.version>4.1.0</felix.bundle.plugin.version>
       <felix.version>6.0.1</felix.version>
-      <hibernate.version>5.2.10.Final</hibernate.version>
+      <hibernate.version>5.4.24.Final</hibernate.version>
       <javassist.version>3.24.1-GA</javassist.version>
       <jndi.version>0.11.4.1</jndi.version>
       <maven.release.version>2.5.3</maven.release.version>
